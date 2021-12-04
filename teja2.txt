@@ -7,7 +7,5 @@
   * vamsi
   * chitra
   * ganesh
-  * kothi
-  * vajja
-  * vaddadi
+  
 
